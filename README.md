@@ -3,7 +3,11 @@ Stand-alone soft-skills training curriculum
 Lessons for ACME students
 
 ## Introduction:
+As a short introduction, this class has been designed in such a way to help students be successful in the job/internship process, 
+understanding themselves and others better, and presenting information in a business setting. Our hope is that this class will give 
+students the tools to succeed in all aspects of the industrial world. 
 
+If you have any questions, please email Marci Hepner at mar.hepner@gmail.com.
 
 ## Lessons:
 Entire folder: https://goo.gl/Ywbfw5 
