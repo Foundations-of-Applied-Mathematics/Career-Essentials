@@ -2,7 +2,7 @@
 
 This class is designed in such a way to help students be successful in the job/internship process, understanding themselves and others better, and presenting information in a business setting.
 Our hope is that this class will give students the tools to succeed in business world.
-See [https://drive.google.com/open?id=1-yBQxCgSHQBU6wB5XPE8tLrxzCE2cy8NvUnfjInGwhc](https://drive.google.com/open?id=1-yBQxCgSHQBU6wB5XPE8tLrxzCE2cy8NvUnfjInGwhc) for the entire collection of lecture materials and [https://goo.gl/3nc4Qz](https://goo.gl/3nc4Qz) for a suggested semester calendar.
+See [https://drive.google.com/open?id=1MfqLMTU6LMwbaALElYAzWDHiusbtGbcI](https://drive.google.com/open?id=1MfqLMTU6LMwbaALElYAzWDHiusbtGbcI) for the entire collection of lecture materials and [https://goo.gl/3nc4Qz](https://goo.gl/3nc4Qz) for a suggested semester calendar.
 
 
 ## Lessons
